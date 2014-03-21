@@ -411,3 +411,6 @@ bt {
 .name {
     text-transform:uppercase;
 }
+.fixAlign {
+    text-align: justify;
+}
