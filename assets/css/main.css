@@ -142,6 +142,7 @@ hr {
 }
 .constituency {
     font-weight: bolder;
+    text-transform:uppercase;
 }
 /* Blog Date*/
 
