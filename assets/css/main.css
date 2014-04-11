@@ -415,3 +415,7 @@ bt {
 .fixAlign {
     text-align: justify;
 }
+
+.blogbtn {
+    padding: 6px 12px;
+}
